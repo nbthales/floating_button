@@ -1,1 +1,1 @@
-![Alt Text](https://bitbucket.org/nbthales/floating_button/raw/91b812195b81d90cb7a456448fed2bb495d1ab64/lib/images/floating_button.gif)
+![Alt Text](https://github.com/nbthales/floating_button/blob/master/lib/images/floating_button.gif?raw=true)
